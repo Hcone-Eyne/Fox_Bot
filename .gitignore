@@ -1,2 +1,6 @@
 .env
 Eyne_Bot/Security_keys/.env
+.env
+*.env
+config.py
+Security_keys/
